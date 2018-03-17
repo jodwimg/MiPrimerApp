@@ -1,2 +1,0 @@
-# MiPrimerApp
-Mi primer APP
